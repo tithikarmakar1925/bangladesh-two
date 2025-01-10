@@ -68,3 +68,137 @@ line-height: 22px;
 .banner-img{
 
 }
+.main{
+    width: 90%;
+    margin: auto;
+}
+.mainh1{
+    margin: 24px 0px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+}
+.mainp{
+    color: rgba(14, 14, 14, 0.7);
+  
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    
+    
+}
+.card{
+display: flex;
+justify-content: space-between;
+margin:30px 0px;
+
+}
+.card-container{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 32px;
+}
+.card-img{
+
+}
+.cardh2{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 12px 0px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+  
+}
+.cardp{
+    color: rgba(14, 14, 14, 0.7);
+    margin: 12px 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.card-button-one{
+    padding: 11px 20px ;
+    color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+border: 2px solid rgb(84, 144, 245) ;
+background: rgb(84, 144, 245);
+border-radius: 8px;
+}
+.card-container2{
+    background: rgb(198, 228, 214);
+    border-radius: 16px;
+    padding: 32px;
+}
+.card-button-two{
+    padding: 11px 20px ;
+    color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+border: 2px solid #09A15C ;
+background: #09A15C;
+border-radius: 8px;
+}
+.card-container3{
+    background: rgb(247, 235, 207);
+    border-radius: 16px;
+    padding: 32px;
+}
+.card-button-three{
+    border-radius: 8px;
+background: rgb(255, 194, 57);
+padding: 11px 20px ;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+border: 2px solid rgb(255, 194, 57) ;
+background: rgb(255, 194, 57);
+
+
+}
+.yunus{
+    background-image: url(../assets/quote-bg.png);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    padding: 26px 19px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background-color: white;
+    margin: 10px 0px;
+    border-radius: 8px;
+}
+.yunusp{
+
+color: rgba(14, 14, 14, 0.8);
+
+font-size: 20px;
+
+font-weight: 400;
+
+line-height: 24px;
+
+letter-spacing: 0%;
+ margin: 10px 0px;
+
+}
+.yunush2{
+    color: rgba(14, 14, 14, 0.8);
+  margin: 10px 0px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+
+}
+.yunusspan{
+    color: rgba(14, 14, 14, 0.6);
+  
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
