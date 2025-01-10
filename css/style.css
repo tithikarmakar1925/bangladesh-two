@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Fira Sans;
+}
+.header{
+width: 90%;
+margin: auto;
+padding: 20px 0px;
+}
+.header-main{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.header-h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.button-one{
+padding: 15px 20px;
+border: 2px solid #006A50;
+border-radius: 8px;
+background-color: white;
+color:#006A50;
+font-size: 20px;
+font-weight: 700;
+}
+.banner{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 80px 100px;
+border-radius: 24px;
+background: rgb(198, 228, 214);
+margin: 50px 0px;
+}
+.banner-h6{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+}
+.banner-text{
+
+}
+.banner-h1{
+    color: rgb(14, 14, 14);
+    font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+padding: 20px 0px;
+}
+.button-two{
+    border: 2px solid #006A50;
+    background-color: #006A50;
+    border-radius: 8px;
+    padding: 15px 15px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+}
+.banner-img{
+
+}
