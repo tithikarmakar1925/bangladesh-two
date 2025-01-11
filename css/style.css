@@ -342,4 +342,56 @@ letter-spacing: 0%;
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
+  }
+  .subscribe-section {
+    padding: 48px 20px;
+    background-color: #e0f7f4;
+    margin: 20px auto;
+    text-align: center;
+  
+    border-radius: 8px;
+  }
+  
+  .subscribe-box {
+    display: flex;
+    justify-content: center;
+  
+    margin-bottom: 10px;
+  }
+  .subscribe-title{
+    font-size: 39px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .subcribe-dis{
+    font-size: 18px;
+    text-align: center;
+    margin: 0 0 20px 0;
+    line-height: 1.5;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  .subscribe-box input {
+    padding: 13px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  
+    width: 519px;
+  }
+  
+  .subscribe-box button {
+    padding: 15px 35px;
+    font-size: 18px;
+    background-color: #006a50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .subscribe-box button:hover {
+    background-color: #005f47;
+  }
+  .promise {
+    font-size: 20px;
+    color: #777;
   }  
