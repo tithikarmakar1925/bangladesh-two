@@ -395,3 +395,26 @@ letter-spacing: 0%;
     font-size: 20px;
     color: #777;
   }  
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    /* border-top: 1px solid #ccc; */
+    margin-top: 20px;
+  }
+  
+  .footer p {
+    font-size: 23px;
+    margin-bottom: 21px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+  }
+  
+  .social-icons a img {
+    width: 24px;
+    height: 24px;
+  }
