@@ -270,3 +270,76 @@ letter-spacing: 0%;
   .news-content .read-more:hover {
     background-color: #005f47;
   }
+  .donate-title {
+    font-size: 39px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .donate-subtitle {
+    font-size: 18px;
+    text-align: center;
+    margin: 0 0 20px 0;
+    line-height: 1.5;
+    color: rgba(14, 14, 14, 0.7);
+  }
+  
+  .donate-section {
+    padding: 36px 15px;
+    text-align: center;
+    background-color: #ffffff;
+    margin: 20px auto;
+  
+    border-radius: 8px;
+  }
+  
+  .donation-options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .donation-options button {
+    padding: 18px 29px;
+    font-size: 29px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  .donation-options button.active {
+    background-color: #c6e4d6;
+    color: black;
+    border: none;
+  }
+  .donate-button:hover {
+    background-color: #005f47;
+  }
+  input[type="text"] {
+    width: calc(100% - 40px);
+    width: 746px;
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .donate-button {
+    padding: 14px 30px;
+    font-size: 18px;
+    background-color: #006a50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .other-amount {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }  
