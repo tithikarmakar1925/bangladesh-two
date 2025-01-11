@@ -30,6 +30,7 @@ color:#006A50;
 font-size: 20px;
 font-weight: 700;
 }
+
 .banner{
 display: flex;
 justify-content: space-between;
@@ -64,6 +65,9 @@ padding: 20px 0px;
     font-size: 18px;
 font-weight: 600;
 line-height: 22px;
+}
+.button-two:hover{
+    background-color: #017457;
 }
 .banner-img{
 
